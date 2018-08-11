@@ -1,4 +1,3 @@
-logic-alex.js
 
 
 var date1 = "";
