@@ -6,7 +6,7 @@ Mason Jar is a web app written in Javascript. The app provides users with inform
 
 ## **How to Use Mason Jar:**
 
-Click on the following link to try out Mason Jar: [Mason Jar](). 
+Click on the following link to try out Mason Jar: [Mason Jar](https://dalep1988.github.io/Project-1-MasonJar/). 
 From the main page, complete the fields for artist and location and select a date from the calendar. Once you click submit, a number of event matches will appear. When you click on the event that most interests you, the app will display a Google map of the event location.
 
 
